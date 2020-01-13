@@ -1,0 +1,11 @@
+From:$SENDER
+To:$RECIPIENT
+Subject:Test Email Subject
+
+Email Body
+Line 2
+Line 3
+$VAR1 is the first variable to be replaced
+$VAR2 is the second variable to be replaced
+This variable !!~~${VAR3}~!@!IS in the middle of some things
+This is the end of the message.
