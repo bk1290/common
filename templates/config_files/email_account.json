@@ -1,4 +1,4 @@
-{//Template for email address and password
+{
 	"email_address":"address@domain.com",
-	"email_password":"password"//comment
+	"email_password":"password"
 }
